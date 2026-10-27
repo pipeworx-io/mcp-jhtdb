@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/jhtdb",
   "title": "Jhtdb",
   "description": "Johns Hopkins Turbulence Databases (JHTDB) — point queries on reference direct numerical…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/jhtdb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-jhtdb",
