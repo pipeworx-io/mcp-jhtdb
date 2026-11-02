@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jhtdb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Johns Hopkins Turbulence Databases (JHTDB) — point queries on reference direct numerical simulation (DNS) datasets.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "jhtdb",
     "gatewaySlug": "jhtdb",
-    "sourceHash": "v1-23917b78880c8b3ced59e71619dbd1a9fe142d5cc68bf8ecf80cdb4abdaadaed",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-a5a87bec4f353d9ff79d38ee15bf5ae93194b6fa142735bf59f0f6b0c3628f25",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
